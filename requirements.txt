@@ -1,0 +1,12 @@
+PyPDF2
+langchain_google_genai
+langchain
+tiktoken
+langchain-community
+python-dotenv
+pinecone-client
+youtube_transcript_api
+google-generativeai 
+streamlit
+streamlit_pdf_viewer
+plotly
